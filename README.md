@@ -1,1 +1,1 @@
-# Final-test-project-stepik-course
+# Финальный тестовый проект в рамках курса по автоматизации тестирования с помощью Selenium и Python
